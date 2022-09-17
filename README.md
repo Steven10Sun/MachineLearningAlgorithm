@@ -6,7 +6,7 @@ The machine learning models will include
 * K-Mean
 * Decision Tree
 
-More models will be continuously updated and added. 
+More and more ML models will be continuously updated and added. 
 
 All the models will be followed the template below.
 each ML models have the following 3 main components. 
